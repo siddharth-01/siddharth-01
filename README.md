@@ -2,7 +2,7 @@
 
 **Senior Backend Engineer | Distributed Systems • Cloud-Native • Python/FastAPI**
 
-I'm a backend engineer with 5+ years of experience designing distributed microservices, ERP data platforms, and cloud-native systems for enterprise clients. From architecting geospatial data pipelines and PostGIS databases to building AI-powered procurement agents with LLMs, I love turning complex analytical requirements into robust, production-ready solutions. My work spans backend engineering, cloud infrastructure, event-driven architecture, and modern DevOps practices.
+Senior Backend Engineer who ships. 5+ years building distributed systems, cloud-native platforms, and AI-powered APIs for enterprise clients. I turn messy data, tight SLAs, and complex domains into clean, scalable services — Python/FastAPI or Java/Spring Boot, whichever the problem calls for. Currently: geospatial pipelines on AWS at Interco. Always: making the hard parts boring.
 
 - 🌍 Based in Los Angeles, California (Open to relocate)
 - 🖥️ See my portfolio at [siddharth-01.github.io/portfolio](https://siddharth-01.github.io/portfolio)
