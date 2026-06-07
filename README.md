@@ -1,12 +1,12 @@
 # Hi 👋 My name is Siddharth Sharma
 
-**Senior Backend Engineer | Distributed Systems • Cloud-Native • Python/FastAPI**
+**Senior Backend Engineer | Distributed Systems • Cloud-Native • Python/FastAPI • Java/Spring Boot**
 
 Senior Backend Engineer who ships. 5+ years building distributed systems, cloud-native platforms, and AI-powered APIs for enterprise clients. I turn messy data, tight SLAs, and complex domains into clean, scalable services — Python/FastAPI or Java/Spring Boot, whichever the problem calls for. Currently: geospatial pipelines on AWS at Interco. Always: making the hard parts boring.
 
 - 🌍 Based in Los Angeles, California (Open to relocate)
 - 🖥️ See my portfolio at [siddharth-01.github.io/portfolio](https://siddharth-01.github.io/portfolio)
-- ✉️ Contact me at [siddharth-01@gmail.com](mailto:siddharth-01@gmail.com)
+- ✉️ Contact me at [siddharth2503s@gmail.com](mailto:siddharth2503s@gmail.com)
 - 🚀 Currently building geospatial cloud-native platforms at **Interco**
 - 🧠 Learning LangGraph, advanced LLM integration patterns, and multi-agent systems
 - ⚡ I automate boring things for fun, and yes, I built this in dark mode
@@ -53,10 +53,10 @@ Senior Backend Engineer who ships. 5+ years building distributed systems, cloud-
   <a href="https://github.com/siddharth-01" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/siddharth-01" target="_blank">
+  <a href="https://linkedin.com/in/siddharth2503s" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:siddharth-01@gmail.com">
+  <a href="mailto:siddharth2503s@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
