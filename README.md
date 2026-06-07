@@ -7,7 +7,7 @@ Senior Backend Engineer who ships. 5+ years building distributed systems, cloud-
 - 🌍 Based in Los Angeles, California (Open to relocate)
 - 🖥️ See my portfolio at [siddharth-01.github.io/portfolio](https://siddharth-01.github.io/portfolio)
 - ✉️ Contact me at [siddharth2503s@gmail.com](mailto:siddharth2503s@gmail.com)
-- 🚀 Currently building geospatial cloud-native platforms at **Interco**
+- 🚀 Currently working on distributed systems and cloud-native backend architecture
 - 🧠 Learning LangGraph, advanced LLM integration patterns, and multi-agent systems
 - ⚡ I automate boring things for fun, and yes, I built this in dark mode
 
