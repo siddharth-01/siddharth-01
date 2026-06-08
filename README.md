@@ -1,6 +1,6 @@
 # Hi 👋 My name is Siddharth Sharma
 
-**Senior Backend Engineer | Distributed Systems • Cloud-Native • Python/FastAPI • Java/Spring Boot**
+**Senior Software Engineer | Distributed Systems • Cloud-Native • Python/FastAPI • Java/Spring Boot**
 
 Senior Backend Engineer who ships. 5+ years building distributed systems, cloud-native platforms, and AI-powered APIs for enterprise clients. I turn messy data, tight SLAs, and complex domains into clean, scalable services — Python/FastAPI or Java/Spring Boot, whichever the problem calls for. Currently: geospatial pipelines on AWS at Interco. Always: making the hard parts boring.
 
